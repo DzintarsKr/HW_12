@@ -1,0 +1,178 @@
+    1  clear
+    2  git--version
+    3  git - - version
+    4  git--version
+    5  git --version
+    6  git --version
+    7  git --version
+    8  ssh ec2-user@linux.itcareerhub.de
+    9  cd /Users/dkrak/ITCareerHub/Linux/Projekts/
+   10  ls -al
+   11  clear
+   12  cd c/Users/dkrak/ITCareerHub/Linux/Projekts/
+   13  cd [200~C:\Users\dkrak\ITCareerHub\Linux\Projekts~
+   14  ls -al
+   15  pwd
+   16  clear
+   17  git clone git@github.com:DzintarsKr/Test-Git.git
+   18  ls -al
+   19  cd Test-Git/
+   20  la -al
+   21  ls -al
+   22  git config --global user.name Dzintars
+   23  git config --global user.email d.krakops@t-online.de
+   24  git config --global -l
+   25  git config --global -l
+   26  ls -al
+   27  cd C:\Users\dkrak\ITCareerHub\Linux\Projekts
+   28  cd /Users
+   29  ls -al
+   30  cd /c/Users/dkrak/
+   31  cd /c/Users/dkrak/ITCareerHub/Linux/Projekts/
+   32  pwd
+   33  ls -al
+   34  cd /c/Users/dkrak/ITCareerHub/Linux/Projekts/Test-Git/
+   35  ls -al
+   36  date >> file.txt
+   37  git status
+   38  git add file.txt
+   39  git status
+   40  git commit -m "Inital commit"
+   41  git status
+   42  git log
+   43  nano song.txt
+   44  ls -al
+   45  echo "Test file" >> file.txt
+   46  git status
+   47  git commit -m 
+   48  git commit -m 
+   49  git commit -m "Inital commit"
+   50  git log
+   51  git add
+   52  git commit -m "Inital commit"
+   53  git add song.txt
+   54  git status
+   55  git add file.txt
+   56  ls -al
+   57  git status
+   58  git push
+   59  git add.
+   60  git add .
+   61  ls -al
+   62  git status
+   63  git push
+   64  git commit -m 
+   65  git commit -m
+   66  git commit
+   67  pwd
+   68  cd /Projekts/
+   69  ssh ec2-user@linux.itcareerhub.de
+   70  pwd
+   71  cd '/c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW 8/git_intro'
+   72  pwd
+   73  ls -al
+   74  git init
+   75  git add my_photo.jpg
+   76  git commit -m "Added photo GitHub"
+   77  git branch -M main
+   78  git remote add origin git@github.com:DzintarsKr/git_intro.git
+   79  git push -u origin main
+   80  exit
+   81  pwd
+   82  cd /mnt/c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW\ 9
+   83  cd'/c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW 9'
+   84  cd '/c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW 9'
+   85  git init
+   86  git add .
+   87  git commit -m "Added script and result files"
+   88  git branch -M main
+   89  git remote add origin git@github.com:DzintarsKr/HW 9.git
+   90  git remote add origin git@github.com:DzintarsKr/HW 9
+   91  git push -u origin main
+   92  git init
+   93  ls -al
+   94  git add history_git_task.txt
+   95  git add myfirstbashscript.txt*
+   96  git add myfirstbashscript_result.txt
+   97  git commit -m "Added script and result files"
+   98  git status
+   99  git log
+  100  git add history_git_task.txt
+  101  git log
+  102  git add history_git_task.txt
+  103  git log
+  104  git status
+  105  git add history_git_task.txt
+  106  git add myfirstbashscript.txt*
+  107  git add myfirstbashscript_result.txt
+  108  git status
+  109  git commit -m "Added script and result files All"
+  110  git branch -M main
+  111  git remote add origin git@github.com:DzintarsKr/HW\ 9
+  112  git status
+  113  git push -u origin main
+  114  git remote add origin git@github.com:DzintarsKr/HW-9
+  115  git remote add origin https://github.com/DzintarsKr/HW-9.git
+  116  git push -u origin main
+  117  echo "# HW-9" >> README.md
+  118  git init
+  119  git add README.md
+  120  git commit -m " commit"
+  121  git branch -M main
+  122  git remote add origin git@github.com:DzintarsKr/HW-9.git
+  123  git remote add second git@github.com:DzintarsKr/HW-9.git
+  124  git push -u second main
+  125  cd '/c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW 10'
+  126  mkdir git-branch
+  127  cd git-branch/
+  128  git init
+  129  git checkout -b gitignore
+  130  cat << 'EOF' > .gitignore *~ *.swap EOF 
+  131  *~
+  132  *.swap
+  133  EOF
+  134  cat << 'EOF' > .gitignore 
+  135  *~
+  136  *.swap
+  137  EOF
+  138  git add .gitignore
+  139  git commit -m "Added .gitignore"
+  140  git remote add origin git@github.com:DzintarsKr/git-branch.git
+  141  git remote -v
+  142  git push -u origin gitignore
+  143  nano .gitignore 
+  144  git log
+  145  git status
+  146  git add .gitignore
+  147  git commit -m "Added .gitignore file and modified content"
+  148  git push origin gitignore
+  149  git pull origin gitignore
+  150  git push origin gitignore
+  151  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW_12
+  152  git clone git@github.com:DzintarsKr/HW_12.git
+  153  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/
+  154  git clone git@github.com:DzintarsKr/HW_12.git
+  155  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW_12/
+  156  pwd
+  157  cat << 'EOF' > .gitignore
+*.log
+*.tmp
+*.swp
+EOF
+
+  158  git add .gitignore 
+  159  git commit -m "Add .gitignore"
+  160  git status
+  161  git push -u origin gitignore
+  162  git push origin main
+  163  git checkout -b feature
+  164  echo "# Homework 12" > README.md
+  165  echo "*~" >> .gitignore
+  166  git add README.md .gitignore
+  167  git commit -m "Add README and update gitignore"
+  168  git push origin feature
+  169  git commit --amend -m "Add README and update gitignore ammend"
+  170  git push origin feature --force
+  171  git checkout main
+  172  git merge feature
+  173  history > history.txt
