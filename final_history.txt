@@ -1,0 +1,30 @@
+  149  git pull origin gitignore
+  150  git push origin gitignore
+  151  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW_12
+  152  git clone git@github.com:DzintarsKr/HW_12.git
+  153  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/
+  154  git clone git@github.com:DzintarsKr/HW_12.git
+  155  cd /c/Users/dkrak/ITCareerHub/Linux/HomeWorks/HW_12/
+  156  pwd
+  157  cat << 'EOF' > .gitignore
+*.log
+*.tmp
+*.swp
+EOF
+
+  158  git add .gitignore 
+  159  git commit -m "Add .gitignore"
+  160  git status
+  161  git push -u origin gitignore
+  162  git push origin main
+  163  git checkout -b feature
+  164  echo "# Homework 12" > README.md
+  165  echo "*~" >> .gitignore
+  166  git add README.md .gitignore
+  167  git commit -m "Add README and update gitignore"
+  168  git push origin feature
+  169  git commit --amend -m "Add README and update gitignore ammend"
+  170  git push origin feature --force
+  171  git checkout main
+  172  git merge feature
+  173  history > history.txt
